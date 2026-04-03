@@ -1,33 +1,69 @@
-Hi, I'm Achraf Boudabous 👋
+# Hi, I'm Achraf Boudabous 👋
 
-I'm a passionate and self-driven software engineer currently pursuing a Master's in Global Software Development at Fulda University of Applied Sciences, Germany. I specialize in full-cycle development of modern web applications with experience across both backend and frontend stacks.
+I'm an **AI and Automation Engineer** specializing in intelligent systems, cloud automation, and full-cycle software development. Currently pursuing a Master's in Global Software Development at Fulda University of Applied Sciences, Germany, with a thesis on QA methodologies for AI-based agents.
 
-🔧 **Languages & Frameworks**
-- Python, JavaScript, TypeScript, Java, PHP
-- Django, React, Node.js, Vue 3, Nuxt 3
+---
 
-🧠 **What I Do**
-- Web and app development using modern frameworks and responsive design principles
-- Build intelligent low-code solutions using Microsoft Power Platform (Power Automate, Power Apps, Power BI)
-- Design user-friendly interfaces with Figma & Adobe XD
-- Automate workflows and enhance productivity with custom Python tools and APIs
+## 🔧 Languages & Frameworks
+- **Languages:** Python, JavaScript, TypeScript, Java, PHP
+- **Backend:** Django, FastAPI, Flask, Node.js
+- **Frontend:** React, Vue 3, Nuxt 3
 
-📊 **Tech Stack & Tools**
-- Databases: SQL (Relational & NoSQL), ORM
-- Data Analytics: Power BI, Tableau, Excel
-- Dev Tools: GitHub, JIRA, Confluence
+---
 
-💼 **Experience**
-- 🧠 Low-code & Python Developer @ Wepa.Digital (2024–present)
+## 🧠 What I Do
+- Design and deploy **AI-driven systems** using Azure AI, Copilot Studio, and Python
+- Build **automation workflows** and low-code solutions with Microsoft Power Platform (Power Automate, Power Apps, Power BI)
+- Develop **REST APIs** and backend services with clean architecture and CI/CD pipelines
+- Automate business processes with custom Python tools, RPA, and cloud integrations
+
+---
+
+## 📊 Tech Stack & Tools
+- **Cloud:** Microsoft Azure, AWS
+- **AI & Automation:** Azure AI, Copilot Studio, Power Automate, Power Apps
+- **Databases:** MySQL, SQL Server, MongoDB (SQL & NoSQL, ORM)
+- **Data & BI:** Power BI, Tableau, Excel
+- **DevOps:** GitHub, GitLab, Docker, CI/CD
+- **Dev Tools:** JIRA, Confluence
+
+---
+
+## 💼 Experience
+- 🤖 Python & Low-code Developer @ WEPA Digital (2024–present)
 - 🔐 Platform Architecture Intern @ Qontigo (2023)
 - 🌐 Web Developer Intern @ Upgradetek Engineering (2022)
 - 🏦 IT Intern @ National Bank of Bahrain (2021)
 
-🎓 Certifications:
-- Microsoft (AZ-900, SC-900, DP-900, PL-900)
-- Google (IT Support, UX Design, Data Analytics, Project Management)
-- TryHackMe (Cyber Defense, SOC Level 1)
+---
 
-🌍 I speak Arabic, English (IELTS 7), French, and basic German (ÖSD A2).
+## 🎓 Certifications
+**Microsoft:**
+- AZ-900 — Azure Fundamentals
+- DP-900 — Azure Data Fundamentals
+- SC-900 — Security, Compliance, and Identity Fundamentals
+- PL-900 — Power Platform Fundamentals
 
-📬 Let's connect or collaborate on exciting open-source or automation projects!
+**Google:**
+- Technical Support Fundamentals
+- UX Design
+- Data Analytics
+- Project Management
+
+---
+
+## 🌍 Languages
+| Language | Level |
+|----------|-------|
+| Arabic   | Native |
+| English  | Professional (IELTS 7) |
+| German   | Limited working proficiency |
+| French   | Elementary |
+
+---
+
+## 📬 Let's Connect
+- 🌐 [achrafboudabous.vercel.app](https://achrafboudabous.vercel.app/)
+- 📧 achrafboudabous@gmail.com
+
+Open to collaborations, freelance work, and full-time opportunities in AI engineering, automation, and software development!
